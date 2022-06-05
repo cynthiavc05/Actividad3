@@ -1,0 +1,168 @@
+body
+{
+    background-color: #BA9369;
+    width: 1000px;
+}
+header
+{
+    width: 1000px;
+}
+.texto1
+{
+    text-align: center;
+} 
+#fotobonita
+{
+    width: 200px;
+    height: 300px;
+    position: absolute;
+}
+#datos
+{
+    background-color: #C2AA8F;
+    width: 770px;
+    color: #C84A39;
+    border: solid black;
+}
+#datospersonales
+{
+    background-color: #C2AA8F;
+}
+#informacionpersonal
+{
+    position: absolute;
+    left:230px;
+    border: 10px;
+    top:45px; 
+    width: 770px;
+    border: solid black;
+}
+#datosexperiencia
+{
+    position: absolute;
+    top: 415px;
+    background-color: #C2AA8F;
+    width: 995px;
+    border: solid black;
+}
+#experiencia
+{
+    position: absolute;
+    top: 360px;
+    background-color: #C2AA8F;
+    width: 995px;
+    color: #C84A39;
+    border: solid black;
+}
+#educacion
+{
+    position: absolute;
+    top: 480px;
+    background-color: #C2AA8F;
+    width: 995px;
+    color: #C84A39;
+    border: solid black;
+}
+#informacionedu
+{
+    position: absolute;
+    top: 540px;  
+    background-color: #C2AA8F; 
+    width: 995px;
+    border: solid black;
+}
+#capacidades
+{
+    position: absolute;
+    top: 600px;
+    background-color: #C2AA8F;
+    width: 995px;
+    color: #DA351E; 
+    border: solid black;
+}
+#capacidades1
+{
+    position: absolute;
+    top: 630px;
+    background-color: #C2AA8F;
+    width: 995px;
+    color: #C84A39;
+    border: solid black;
+}
+#lengua
+{
+    position: absolute;
+    top: 685px;
+    background-color: #C2AA8F;
+    width: 995px;
+    border: solid black;
+}
+#idiomas
+{
+    position: absolute;
+    top: 730px;
+    background-color: #C2AA8F;
+    width: 995px;
+    color: #C84A39;
+    border: solid black;
+}
+#ingles
+{
+    position: absolute;
+    top: 785px;
+    background-color: #C2AA8F;
+    width: 995px;
+    border: solid black;
+}
+#aptitudes 
+{
+    position: absolute;
+    top: 810px;
+    background-color: #C2AA8F;
+    width: 995px;
+    color: #C84A39;
+    border: solid black;
+    
+}
+#conocimientos
+{
+    position: absolute;
+    top: 865px;
+    background-color: #C2AA8F;
+    width: 995px;
+    border: solid black;
+}
+#permiso
+{
+    position: absolute;
+    top: 910px;
+    background-color: #C2AA8F;
+    width: 995px;
+    color: #C84A39;
+    border: solid black;
+}
+#conducion
+{
+    position: absolute;
+    top: 965px;
+    background-color: #C2AA8F;
+    width: 995px;
+    border: solid black;
+}
+#adicional
+{
+    position: absolute;
+    top: 975px;
+    background-color: #C2AA8F;
+    width: 995px;
+    color: #C84A39;
+    border: solid black;
+}
+#aprendo
+{
+    position: absolute;
+    top: 1030px;
+    background-color: #C2AA8F;
+    width: 995px;
+    border: solid black;
+}

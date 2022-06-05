@@ -1,0 +1,57 @@
+body
+{
+    background-color: #FCCCF8;
+    width: 1000px;
+}
+header
+{
+    background-color: #FFFFFF;
+    margin: 20px;
+    border: double black;
+}
+#registro
+{
+    text-align: center;
+}
+#fecha
+{
+    margin: 10px;
+    background-color: #FFFFFF;
+    width: 250px;
+    border: double black; 
+}
+#fechaexacta
+{
+    margin: 10px;
+    width: 250px;
+    border: double black;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+#direccion
+{
+    margin: 10px;
+    background-color: #FFFFFF;
+    border: double black;
+    width: 250px;
+}
+#direccionexacta
+{
+    margin: 10px;
+    background-color: #FFFFFF;
+    border: double black;
+    width: 250px;
+    text-align: center;
+}
+#direc
+{
+    position: absolute;
+    top: 145px;
+    left: 500px;
+}
+#maps
+{
+    position: absolute;
+    left: 300px;
+    bottom: 125px;
+}
